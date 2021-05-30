@@ -6,3 +6,9 @@ This is a trash code that will be improved when I have time and when I want.
 Updated at the latest Fortnite Patch.
 Dm me on discord if u have any issue (not retarded): Android#1336
 Only ESP for now :)
+
+# Change Log 
+| Date         | Fixed / Changed / Added |
+| ------------ | ----------------------- |
+| 29/05/2021   | Released                |
+| 30/05/2021   | Fixed Errors            |
