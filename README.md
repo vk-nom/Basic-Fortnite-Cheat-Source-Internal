@@ -8,9 +8,9 @@ Dm me on discord if u have any issue (not retarded): Android#1336
 Only ESP for now :)
 
 # Features
-..* Box ESP
-..* Skeleton ESP
-..* Line ESP
+⋅⋅* Box ESP
+⋅⋅* Skeleton ESP
+⋅⋅* Line ESP
 
 
 # Change Log 
